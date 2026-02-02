@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "types": ["node", "grecaptcha"],
+    "types": ["node"],
     "allowSyntheticDefaultImports": true,
     "jsx": "preserve",
     "lib": ["es2017", "dom", "esnext"],
